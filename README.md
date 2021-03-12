@@ -1,7 +1,7 @@
 # JS-BuildLogicExercises
 
-### Operators, Branching and Loops
+### Operators, Branching and Loops (*completed*)
 [Repl.it](https://repl.it/@HalfCold/Operators-Branching-and-Loops)
 
-### Functions (*ongoing*)
+### Functions (*completed*)
 [Repl.it](https://repl.it/@HalfCold/Functions)
